@@ -150,7 +150,7 @@
 
 // const message = “Hello”;
 
-const hobbies = ["Sports", "Cooking"];
+const hobbies = ["Sports", "Cooking", "Drinking"];
 // hobbies = [];
 hobbies.push("Working");
 console.log(hobbies);
